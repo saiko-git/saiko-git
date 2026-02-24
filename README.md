@@ -7,7 +7,7 @@
 
 ## 📜 About Me
 
-I'm a self-motivated developer who got into coding out of pure curiosity and a love for logic. Currently studying **Computer Science at [Your University Name]**, I enjoy solving real-world problems with code and creating hands-on projects to sharpen my skills.
+I'm a self-motivated developer who got into coding out of pure curiosity and a love for logic. Currently studying **Computer Science at Faculty of Engineering Cairo University**, I enjoy solving real-world problems with code and creating hands-on projects to sharpen my skills.
 
 I love learning by doing — especially through challenges like building encryption tools, games, and automation scripts.
 
